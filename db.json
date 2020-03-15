@@ -1,32 +1,69 @@
 {
   "users": [
     {
-      "id": "ross@test.com",
-      "firstName": "Ross",
-      "lastName": "Pedley",
-      "password": "1",
-      "phoneNumber": "07792279116",
+      "id": "aaron@example.com",
+      "firstName": "Aaron",
+      "lastName": "Anderson",
+      "password": "P@$$word",
+      "phoneNumber": "07123456789",
       "intake": "September 2019",
-      "tdpManagement": "No"
+      "programme": "Degree Apprenticeship",
+      "tdpManagement": "No",
+      "securityQuestion": "What is your favourite football team?",
+      "securityAnswer": "Arsenal",
+      "userId": 1
     },
     {
-      "id": "technologydevelopmentprogramme@nationwide.co.uk",
-      "firstName": "TDP",
+      "id": "ben@example.com",
+      "firstName": "Beatrice",
+      "lastName": "Beasly",
+      "password": "P@$$word",
+      "phoneNumber": "07123456789",
+      "intake": "September 2019",
+      "programme": "IP",
+      "tdpManagement": "No",
+      "securityQuestion": "What is your favourite football team?",
+      "securityAnswer": "Arsenal",
+      "userId": 2
+    },
+    {
+      "id": "charlotte@example.com",
+      "firstName": "Charlotte",
+      "lastName": "Charlotten",
+      "password": "P@$$word",
+      "phoneNumber": "07123456789",
+      "intake": "September 2019",
+      "programme": "Degree Apprenticeship",
+      "tdpManagement": "No",
+      "securityQuestion": "What is your favourite football team?",
+      "securityAnswer": "Arsenal",
+      "userId": 3
+    },
+    {
+      "id": "daisy@example.com",
+      "firstName": "Daisy",
+      "lastName": "Duke",
+      "password": "P@$$word",
+      "phoneNumber": "07123456789",
+      "intake": "September 2019",
+      "programme": "IP",
+      "tdpManagement": "No",
+      "securityQuestion": "What is your favourite football team?",
+      "securityAnswer": "Arsenal",
+      "userId": 4
+    },
+    {
+      "id": "tdp@example.com",
+      "firstName": "Tdp",
       "lastName": "Management",
-      "password": "Password",
-      "phoneNumber": "07789976554",
+      "password": "P@$$word",
+      "phoneNumber": "07123456789",
       "intake": "September 2019",
-      "tdpManagement": "Yes"
-    },
-    {
-      "id": "jksorp@test.com",
-      "firstName": "Dakxfjd",
-      "lastName": "dkjdfklfkjdf",
-      "password": "daniel",
-      "phoneNumber": "01984795746",
-      "intake": "September 2018",
-      "programme": "Accelerator",
-      "tdpManagement": "No"
+      "programme": "IP",
+      "tdpManagement": "Yes",
+      "securityQuestion": "What is your favourite football team?",
+      "securityAnswer": "Arsenal",
+      "userId": 5
     }
   ],
   "programme": [
