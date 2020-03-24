@@ -75,34 +75,34 @@
   ],
   "events": [
     {
-      "id": 1,
       "name": "Quaterly formun",
       "date": "2020-02-22",
       "location": "test",
       "attendees": "3",
       "intake": "September 2018",
       "programme": "Degree Apprenticeship",
-      "coreSelection": "noncore"
+      "coreSelection": "Non-core",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "logremoved",
-      "date": "2020-02-20",
-      "location": "feaaeeaf",
-      "attendees": "1",
-      "intake": "September 2019",
-      "programme": "IP",
-      "coreSelection": "noncore"
+      "name": "Core event",
+      "date": "1960-01-01",
+      "location": "London",
+      "attendees": "30",
+      "intake": "September 2018",
+      "programme": "Accelerator",
+      "coreSelection": "Core",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "demo for PR",
-      "date": "2020-02-28",
-      "location": "Omar's house",
-      "attendees": "7",
-      "intake": "May 2019",
-      "programme": "IP",
-      "coreSelection": "core"
+      "name": "Non-core event",
+      "date": "1960-01-01",
+      "location": "London",
+      "attendees": "30",
+      "intake": "September 2018",
+      "programme": "Accelerator",
+      "coreSelection": "Non-core",
+      "id": 3
     }
   ],
   "config": {
@@ -110,7 +110,6 @@
   },
   "tdpDetails": {
     "intake": [
-      "Please select",
       "September 2018",
       "May 2019",
       "September 2019",
@@ -118,7 +117,6 @@
       "September 2020"
     ],
     "programme": [
-      "Please select",
       "Accelerator",
       "IP",
       "Degree Apprenticeship",
