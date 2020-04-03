@@ -82,6 +82,7 @@
       "intake": "September 2018",
       "programme": "Degree Apprenticeship",
       "coreSelection": "Non-core",
+      "booked": [],
       "id": 1
     },
     {
@@ -92,6 +93,7 @@
       "intake": "September 2018",
       "programme": "Accelerator",
       "coreSelection": "Core",
+      "booked": [],
       "id": 2
     },
     {
@@ -102,6 +104,7 @@
       "intake": "September 2018",
       "programme": "Accelerator",
       "coreSelection": "Non-core",
+      "booked": [],
       "id": 3
     }
   ],
@@ -116,12 +119,7 @@
       "May 2020",
       "September 2020"
     ],
-    "programme": [
-      "Accelerator",
-      "IP",
-      "Degree Apprenticeship",
-      "All"
-    ]
+    "programme": ["Accelerator", "IP", "Degree Apprenticeship", "All"]
   },
   "securityQuestions": [
     "Whats your favourite football team?",
