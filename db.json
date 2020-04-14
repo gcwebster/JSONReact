@@ -82,7 +82,11 @@
       "intake": "September 2018",
       "programme": "Degree Apprenticeship",
       "coreSelection": "Non-core",
-      "booked": [],
+      "booked": [
+        "daisy@example.com",
+        "charlotte@example.com",
+        "charlotte@example.com"
+      ],
       "id": 1
     },
     {
@@ -93,7 +97,10 @@
       "intake": "September 2018",
       "programme": "Accelerator",
       "coreSelection": "Core",
-      "booked": [],
+      "booked": [
+        "daisy@example.com",
+        "charlotte@example.com"
+      ],
       "id": 2
     },
     {
@@ -104,7 +111,11 @@
       "intake": "September 2018",
       "programme": "Accelerator",
       "coreSelection": "Non-core",
-      "booked": [],
+      "booked": [
+        "daisy@example.com",
+        "charlotte@example.com",
+        "charlotte@example.com"
+      ],
       "id": 3
     }
   ],
