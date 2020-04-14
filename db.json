@@ -119,7 +119,12 @@
       "May 2020",
       "September 2020"
     ],
-    "programme": ["Accelerator", "IP", "Degree Apprenticeship", "All"]
+    "programme": [
+      "Accelerator",
+      "IP",
+      "Degree Apprenticeship",
+      "All"
+    ]
   },
   "securityQuestions": [
     "Whats your favourite football team?",
