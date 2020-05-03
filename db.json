@@ -82,9 +82,7 @@
       "intake": "All",
       "programme": "All",
       "coreSelection": "Core",
-      "attendees": [
-        "aaron@example.com"
-      ],
+      "attendees": [],
       "id": 1
     },
     {
@@ -95,9 +93,7 @@
       "intake": "September 2018",
       "programme": "All",
       "coreSelection": "Core",
-      "attendees": [
-        "aaron@example.com"
-      ],
+      "attendees": [],
       "id": 2
     },
     {
