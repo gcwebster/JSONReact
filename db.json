@@ -4,9 +4,9 @@
       "id": "aaron@example.com",
       "firstName": "Aaron",
       "lastName": "Anderson",
-      "password": "P@$$word",
+      "password": "Password1",
       "phoneNumber": "07123456789",
-      "intake": "September 2019",
+      "intake": "September 2018",
       "programme": "Degree Apprenticeship",
       "tdpManagement": "No",
       "securityQuestion": "What is your favourite football team?",
@@ -15,11 +15,11 @@
     },
     {
       "id": "ben@example.com",
-      "firstName": "Beatrice",
+      "firstName": "Ben",
       "lastName": "Beasly",
-      "password": "P@$$word",
+      "password": "Password1",
       "phoneNumber": "07123456789",
-      "intake": "September 2019",
+      "intake": "September 2018",
       "programme": "IP",
       "tdpManagement": "No",
       "securityQuestion": "What is your favourite football team?",
@@ -30,9 +30,9 @@
       "id": "charlotte@example.com",
       "firstName": "Charlotte",
       "lastName": "Charlotten",
-      "password": "P@$$word",
+      "password": "Password1",
       "phoneNumber": "07123456789",
-      "intake": "September 2019",
+      "intake": "September 2018",
       "programme": "Degree Apprenticeship",
       "tdpManagement": "No",
       "securityQuestion": "What is your favourite football team?",
@@ -43,9 +43,9 @@
       "id": "daisy@example.com",
       "firstName": "Daisy",
       "lastName": "Duke",
-      "password": "P@$$word",
+      "password": "Password1",
       "phoneNumber": "07123456789",
-      "intake": "September 2019",
+      "intake": "September 2018",
       "programme": "IP",
       "tdpManagement": "No",
       "securityQuestion": "What is your favourite football team?",
@@ -56,9 +56,9 @@
       "id": "tdp@example.com",
       "firstName": "Tdp",
       "lastName": "Management",
-      "password": "P@$$word",
+      "password": "Password1",
       "phoneNumber": "07123456789",
-      "intake": "September 2019",
+      "intake": "September 2018",
       "programme": "IP",
       "tdpManagement": "Yes",
       "securityQuestion": "What is your favourite football team?",
@@ -75,60 +75,50 @@
   ],
   "events": [
     {
-      "name": "Quaterly Forum",
-      "date": "2020-02-22",
+      "name": "Quarterly Forum",
+      "date": "Wed May 20 2020",
       "location": "Nationwide House",
-      "attendees": "30",
-      "intake": "September 2018",
-      "programme": "Degree Apprenticeship",
-      "coreSelection": "Non-core",
-      "booked": [
-        "daisy@example.com",
-        "charlotte@example.com",
-        "charlotte@example.com"
-      ],
+      "capacity": 60,
+      "intake": "All",
+      "programme": "All",
+      "coreSelection": "Core",
+      "attendees": [],
       "id": 1
     },
     {
-      "name": "Core event",
-      "date": "1960-01-01",
-      "location": "London",
-      "attendees": "30",
+      "name": "CoE all hands meeting",
+      "date": "Thu May 21 2020",
+      "location": "Ramsbury house",
+      "capacity": 30,
       "intake": "September 2018",
-      "programme": "Accelerator",
+      "programme": "All",
       "coreSelection": "Core",
-      "booked": [
-        "daisy@example.com",
-        "charlotte@example.com"
-      ],
+      "attendees": [],
       "id": 2
     },
     {
-      "name": "Non-core event",
-      "date": "1960-01-01",
-      "location": "London",
-      "attendees": "30",
+      "name": "TDP check in",
+      "date": "Mon May 25 2020",
+      "location": "Ramsbury house",
+      "capacity": 3,
       "intake": "September 2018",
       "programme": "Accelerator",
       "coreSelection": "Non-core",
-      "booked": [
-        "daisy@example.com",
-        "charlotte@example.com",
-        "charlotte@example.com"
-      ],
+      "attendees": [],
       "id": 3
     }
   ],
   "config": {
-    "cohort": "September 2019"
+    "cohort": "September 2018"
   },
   "tdpDetails": {
     "intake": [
       "September 2018",
       "May 2019",
-      "September 2019",
+      "September 2018",
       "May 2020",
-      "September 2020"
+      "September 2020",
+      "All"
     ],
     "programme": [
       "Accelerator",
