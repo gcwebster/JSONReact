@@ -10,8 +10,7 @@
       "programme": "Degree Apprenticeship",
       "tdpManagement": "No",
       "securityQuestion": "What is your favourite football team?",
-      "securityAnswer": "Arsenal",
-      "userId": 1
+      "securityAnswer": "Arsenal"
     },
     {
       "id": "ben@example.com",
@@ -23,8 +22,7 @@
       "programme": "IP",
       "tdpManagement": "No",
       "securityQuestion": "What is your favourite football team?",
-      "securityAnswer": "Arsenal",
-      "userId": 2
+      "securityAnswer": "Arsenal"
     },
     {
       "id": "charlotte@example.com",
@@ -36,8 +34,7 @@
       "programme": "Degree Apprenticeship",
       "tdpManagement": "No",
       "securityQuestion": "What is your favourite football team?",
-      "securityAnswer": "Arsenal",
-      "userId": 3
+      "securityAnswer": "Arsenal"
     },
     {
       "id": "daisy@example.com",
@@ -49,8 +46,7 @@
       "programme": "IP",
       "tdpManagement": "No",
       "securityQuestion": "What is your favourite football team?",
-      "securityAnswer": "Arsenal",
-      "userId": 4
+      "securityAnswer": "Arsenal"
     },
     {
       "id": "tdp@example.com",
@@ -62,8 +58,7 @@
       "programme": "IP",
       "tdpManagement": "Yes",
       "securityQuestion": "What is your favourite football team?",
-      "securityAnswer": "Arsenal",
-      "userId": 5
+      "securityAnswer": "Arsenal"
     }
   ],
   "programme": [
@@ -120,7 +115,12 @@
       "September 2020",
       "All"
     ],
-    "programme": ["Accelerator", "IP", "Degree Apprenticeship", "All"]
+    "programme": [
+      "Accelerator",
+      "IP",
+      "Degree Apprenticeship",
+      "All"
+    ]
   },
   "securityQuestions": [
     "Whats your favourite football team?",
